@@ -19,5 +19,5 @@ Yes, and it always will be.
 #### What game engine did you use?
 I used Unity and C# to program the game and Aseprite for the art.
 
-#### Help what does the yellow block do?
+#### Help, what does the yellow block do?
 It's supposed to be a honey block and honey blocks make things stick together. So if you move a honey block, every other block around it moves.
