@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/84760072/187482587-ab5f1a3c-266c-480c-ab81-4ee6cae9270d.png)
 ## 📖 About
-Chicken crossing is a 🧦 [sokoban](https://en.wikipedia.org/wiki/Sokoban) 🧦 game created in Unity and C# about solving strange and mysterious dungeons to reunite a chicken with her chicks.  
+Chicken crossing is a 🧦 [sokoban](https://en.wikipedia.org/wiki/Sokoban) 🧦 game created in [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) about solving strange and mysterious dungeons to reunite a chicken with her chicks.  
   
 In the game, you push around blocks with unique properties to solve puzzles.  
   
