@@ -10,3 +10,6 @@ You can play the game for free here: [chicken crossing](https://hwelsters.itch.i
 ## FAQ
 #### Is the game free?
 Yes
+#### What game engine did you use?
+I used Unity and C#
+
